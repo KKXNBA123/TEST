@@ -1,0 +1,2 @@
+jmeter -n -t F:\program\jmeter\login.jmx -l F:\program\jmeter\login.csv -e -o F:\program\jmeter\report
+pause
