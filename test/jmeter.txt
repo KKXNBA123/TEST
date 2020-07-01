@@ -1,0 +1,10 @@
+shadiao tanfujigou
+cd 123456789
+mkdir jmeter
+jmeter -n -t F:\program\jmeter\login.jmx -l F:\program\jmeter\login.csv -e -o F:\program\jmeter\report
+pause
+
+hello world 122345
+
+shadiaoduanbibo dsb TMD hnlz
+
