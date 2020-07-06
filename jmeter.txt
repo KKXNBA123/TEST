@@ -5,3 +5,5 @@ jmeter -n -t F:\program\jmeter\login.jmx -l F:\program\jmeter\login.csv -e -o F:
 pause
 
 hello world 122345
+matongxue AUTO 123
+
