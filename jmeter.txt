@@ -9,4 +9,4 @@ matongxue AUTO 12loshi
 
 test buer laoshi
 20200707 NEW DAY
-
+doctor release test cd/etc/hhh/123
